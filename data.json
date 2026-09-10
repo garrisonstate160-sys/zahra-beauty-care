@@ -1,0 +1,47 @@
+{
+  "brand": "Zahra Beauty Care",
+  "owner": "Izah Az Zahra",
+  "tagline": "Feel good. Look like you.",
+  "location": "No. 5, Jalan Bukit Idaman 8/1, Taman Bukit Idaman, 68100 Batu Caves, Selangor, Malaysia",
+  "instagram": "https://instagram.com/zahrabeauty_care12",
+  "tiktok": "https://www.tiktok.com/@zahra.beauty.care",
+  "whatsapp": "60123001396",
+  "services": [
+    {
+      "name": "Threading",
+      "desc": "Brows, upper lip and facial threading with a precise, clean finish.",
+      "price": "Enquire",
+      "image": "assets/threading.svg"
+    },
+    {
+      "name": "Waxing",
+      "desc": "Smooth-skin waxing treatments with a gentle, private salon experience.",
+      "price": "Enquire",
+      "image": "assets/waxing.svg"
+    },
+    {
+      "name": "Nails",
+      "desc": "Manicure, nail care and polished finishing for an effortless look.",
+      "price": "Enquire",
+      "image": "assets/nails.svg"
+    },
+    {
+      "name": "Facial Care",
+      "desc": "Relaxing facial and skincare sessions tailored to your skin needs.",
+      "price": "Enquire",
+      "image": "assets/facial.svg"
+    },
+    {
+      "name": "Massage",
+      "desc": "Head, shoulder, back and foot massage sessions for deep relaxation.",
+      "price": "Enquire",
+      "image": "assets/massage.svg"
+    }
+  ],
+  "reviews": [],
+  "bookings": [],
+  "displayWhatsapp": "012-300 1396",
+  "hours": "11:00 AM – 8:00 PM",
+  "closedDay": "Thursday",
+  "map": "https://www.google.com/maps/search/?api=1&query=No.%205%2C%20Jalan%20Bukit%20Idaman%208%2F1%2C%20Taman%20Bukit%20Idaman%2C%2068100%20Batu%20Caves%2C%20Selangor%2C%20Malaysia"
+}
